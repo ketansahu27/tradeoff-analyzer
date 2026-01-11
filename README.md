@@ -1,5 +1,6 @@
 📖 Overview
 When choosing between technologies, developers and teams often face information overload. Articles say "X is best for Y" but rarely explain what you're giving up. Trade-off Analyzer empowers users to make informed choices based on their specific constraints and priorities.
+
 ✨ Features
 🎯 Pre-built Comparison Templates
 
